@@ -38,7 +38,7 @@ when positioned in the main folder of the current repository. Note:
 ## About EvalTo
 
 The machinery implemented by EvalTo has been defined in the research paper:
- > _A. Brogi, A. Corradini, J. Soldani. <br>
+ > A. Brogi, A. Corradini, J. Soldani. <br>
  > **Estimating costs of multi-component enterprise applications.** <br>
  > Formal Aspects of Computing, vol. 31, pp. 421-451 (2019). 
 
