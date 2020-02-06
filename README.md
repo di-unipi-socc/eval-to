@@ -40,9 +40,20 @@ when positioned in the main folder of the current repository. Note:
 The machinery implemented by EvalTo has been defined in the research paper:
  > _A. Brogi, A. Corradini, J. Soldani. <br>
  > **Estimating costs of multi-component enterprise applications.** <br>
- > [Submitted for publication]_
+ > Formal Aspects of Computing, vol. 31, pp. 421-451 (2019). 
 
 If you wish to exploit EvalTo to carry out research activities, or if you wish to reuse its sources, please properly cite the above mentioned paper. Below you can find the BibTex reference:
 ```
-TBA
+@article{estimating-costs-app-topologies,
+  author = "Brogi, Antonio and Corradini, Andrea and Soldani, Jacopo",
+  title = "Estimating costs of multi-component enterprise applications",
+  journal = "Formal Aspects of Computing",
+  year = "2019",
+  volume = "31",
+  number = "4",
+  pages = "421--451",
+  issn = "1433-299X",
+  doi="10.1007/s00165-019-00491-2",
+  url="https://doi.org/10.1007/s00165-019-00491-2"
+}
 ```
